@@ -1,0 +1,1 @@
+A checklist for testing invitation / team-member invite flows for business-logic vulnerabilities. penetration-testing notes, or bug bounty writeups. Each item includes: **What to test → Quick test steps → PoC / Request template → Expected (bad) behavior → Impact → Mitigation**.
